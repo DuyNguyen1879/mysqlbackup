@@ -1,8 +1,7 @@
-######### Shell script for mysql/mariadb database backup automation #########
+######### Shell script for mysql/mariadb database backup automation ###########
 
-----------------------Jithin John Jose------------------------------
-
-
+                           ***BY Jithin John Jose***
+                           
 1)Shell script dump all databases into separate files and stored to specified location
 
 
