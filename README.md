@@ -17,7 +17,7 @@
 5)Cron job for scheduling backup
 
 
-6)If the file was compressed, uncompressed it first : gunzip [file_name].sql.gz
+6)If the file was compressed then you can uncompress it using : gunzip [file_name].sql.gz
 
 
 7)Restore from backup using :  mysql -u root -p < dbname.sql
