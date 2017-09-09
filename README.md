@@ -1,12 +1,3 @@
-####################################################
-#                                                  #
-#                                                  #
-#          MySql backup script                     #
-#       script by : Jithin John Jose               #
-#            Free to Modify                        #
-#                                                  #
-####################################################
-
 
 1)Shell script dump all databases into separate files and stored to specified location
 
