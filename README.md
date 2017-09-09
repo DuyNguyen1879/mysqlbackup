@@ -7,7 +7,10 @@
 2)Shell script to take automatic backup to single database.
 
 
-s)Shell script to take automatic backup to all databases to single file.
+3)Shell script to take automatic backup to all databases to single file.
 
 
-4)Cron job for scheduling backup
+4)set permission of script to 755 and run ./(filename).sh
+
+
+5)Cron job for scheduling backup
