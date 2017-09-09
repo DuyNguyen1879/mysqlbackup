@@ -2,7 +2,7 @@
 #                                                  #
 #                                                  #
 #          MySql backup script                     #
-#      script by : Jithin John Jose                #
+#       script by : Jithin John Jose               #
 #            Free to Modify                        #
 #                                                  #
 ####################################################
