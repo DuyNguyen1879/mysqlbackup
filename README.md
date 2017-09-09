@@ -1,3 +1,5 @@
+################### Shell script for mysql database backup automation( By Jithin John Jose )####################################
+
 
 1)Shell script dump all databases into separate files and stored to specified location
 
