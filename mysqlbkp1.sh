@@ -4,7 +4,7 @@
 DATE=$(date +%d-%m-%Y)
 BACKUP_DIR="/backup/test-backup"
 MYSQL_USER="root"
-MYSQL_PASSWORD="abc@123"
+MYSQL_PASSWORD="password"
 MYSQL=/usr/bin/mysql
 MYSQLDUMP=/usr/bin/mysqldump
 
