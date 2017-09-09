@@ -4,9 +4,9 @@
 DATE=$(date +%d-%m-%Y)
 BACKUP_DIR="/backup/test-backup"
 MYSQL_USER="root"
-MYSQL_PASSWORD="***"
-MYSQL=/u01/mysql/bin/mysql
-MYSQLDUMP=/u01/mysql/bin/mysqldump
+MYSQL_PASSWORD="abc@123"
+MYSQL=/usr/bin/mysql
+MYSQLDUMP=/usr/bin/mysqldump
 
 # To create a new directory into backup directory location
 mkdir -p $BACKUP_DIR/$DATE
