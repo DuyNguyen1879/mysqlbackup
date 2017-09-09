@@ -18,4 +18,4 @@
 5)Cron job for scheduling backup
 
 
-6)Restore from backup using :  mysql -u root -p < /backup/2017-09-08/mysql/db.sql
+6)Restore from backup using :  mysql -u root -p < dbname.sql
