@@ -1,4 +1,4 @@
-######### Shell script for mysql database backup automation #########
+######### Shell script for mysql/mariadb database backup automation #########
 
 ----------------------Jithin John Jose------------------------------
 
